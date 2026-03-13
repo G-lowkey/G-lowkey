@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @G-lowkey
-- 👀 I’m interested in learning Penetration testing
-- 🌱 I’m currently studying A levels
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @G-lowkey.
+- 👀 I’m interested in learning Computer Science, Physics, Maths.
+- 🌱 I’m currently studying A levels.
+- 😄 Pronouns: He/His.
 
 <!---
 G-lowkey/G-lowkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
